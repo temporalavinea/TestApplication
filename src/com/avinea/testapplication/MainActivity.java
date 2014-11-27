@@ -46,7 +46,6 @@ public class MainActivity extends Activity
                 R.id.navigation_drawer,
                 (DrawerLayout) findViewById(R.id.drawer_layout));
         
-        // Proof that change has been committed using TortoiseGit
     }
 
     @Override
